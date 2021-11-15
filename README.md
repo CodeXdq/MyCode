@@ -1,2 +1,2 @@
 # MyCode
-vue.js project
+A Blog of Vue.js
